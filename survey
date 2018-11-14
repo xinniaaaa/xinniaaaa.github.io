@@ -21,7 +21,7 @@ function myFunction(Album) {
     document.getElementById("result").value = album;
 }
 </script>
-<a href="https://xinniaaaa.github.io"><img src="https://ichef.bbci.co.uk/images/ic/960x540/p01bqdly.jpg"alt="group " width="203">
+<a href="https://xinniaaaa.github.io"><img src="https://ichef.bbci.co.uk/images/ic/960x540/p01bqdly.jpg" alt="group " width="203">
 </a>
 
 </body>
